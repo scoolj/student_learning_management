@@ -1,0 +1,1 @@
+Create a new branch with the branch, switch or checkout commands. Perform a git push with the –set-upstream option to set the remote repo for the new branch. Continue to perform Git commits locally on the new branch. Simply use a git push origin command on subsequent pushes of the new branch to the remote repo.3 Oct 2021
